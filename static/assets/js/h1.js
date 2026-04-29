@@ -167,14 +167,14 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
+  "New Proxy Hosted From Interstellar!",
   "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
+  "Made by Dashy!",
+  "Check out this cool gaming hub https://bplus-math.github.io",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
+  "Save this page as a bookmark! :)",
+  "Star this repository!",
+  "Shout out to interstellar!",
   "Check out the settings page",
   "Welcome to this cool proxy woxy!",
 ];
