@@ -76,3 +76,13 @@ body {
    position: absolute;
    z-index: 99;
 }
+
+#splash {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+
+  /* optional but makes it look nicer */
+  font-weight: bold;
+}
