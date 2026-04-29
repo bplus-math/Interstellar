@@ -176,7 +176,7 @@ const SplashT = [
   "Subscribe to us on YouTube (@unblocking)",
   "Subscribe to my Youtube (@xbubbo)",
   "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "Welcome to this cool proxy woxy!",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
